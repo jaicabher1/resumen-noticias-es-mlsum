@@ -1,0 +1,6 @@
+# Requisitos base del proyecto AINE (MLSUM ES)
+# Archivo vivo: se ira ampliando durante el proyecto.
+pandas
+datasets
+transformers
+sentencepiece
