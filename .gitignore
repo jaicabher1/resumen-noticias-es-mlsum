@@ -1,2 +1,5 @@
 # Ignorar archivos CSV del dataset
 *.csv
+# Ignorar directorios de modelos y resultados de entrenamiento
+notebooks/mi_modelo_resumen_mt5/
+notebooks/resultados_mt5_mlsum/
